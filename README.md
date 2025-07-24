@@ -32,7 +32,6 @@ Günümüzde sokak hayvanlarına yardım çoğunlukla bireysel, plansız ve kay�
 KURULUM 
 1.Depoyu klonlayın:
 git clone https://github.com/kullanici_adi/PatiGo.git
-cd PatiGo/backend
 
 2.Sanal ortam oluşturun ve aktif edin :
 python3 -m venv venv
